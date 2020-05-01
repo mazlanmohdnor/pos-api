@@ -1,0 +1,37 @@
+export class API {
+    public static poslaju = 'https://apis.pos.com.my/apigateway/as2corporate/api/v2trackntracewebapijson/v1?id=';
+    public static poslajuV2 = 'http://postpost.wittydata.com/api/v1/poslaju/';
+    public static poslajuV3 = 'https://cj-api.herokuapp.com/poslaju/';
+    public static nationwide = 'https://cj-api.herokuapp.com/nationwide/';
+    public static skynet = 'http://postpost.wittydata.com/api/v1/skynet/';
+    public static usps = 'http://www.pdexpress.net/portal/track/services/track/backpro/630055891748/usps/';
+    public static ninjavan = 'http://postpost.wittydata.com/api/v1/ninjavan/';
+    public static lex = 'http://postpost.wittydata.com/api/v1/lex/';
+    public static jnt = 'http://customerapp.jtexpress.my:22236/jandt-app-ifd-web/router.do';
+    public static gdex = 'https://www.gdexapi.com/app/CustomerApp/DeliveryStatus/';
+    public static citylink = 'http://postpost.wittydata.com/api/v1/citylink/';
+    public static dhl = 'http://www.dhl.com.my/shipmentTracking?AWB=';
+    public static dhleco = 'http://postpost.wittydata.com/api/v1/dhl/';
+    public static abx = 'https://cj-api.herokuapp.com/abx/';
+    public static cj = 'https://cj-api.herokuapp.com/cj/'/* 'http://mysgnexs.cjkx.net/web/g_tracking_eng.jsp?slipno='*/;
+    public static fedex = 'http://www.pdexpress.net/portal/track/services/track/backpro/630055891748/fedex/';
+    public static lwe = 'http://postpost.wittydata.com/api/v1/lwe/';
+    public static lineclear = 'https://lineclearexpress.com/my/track.php?docno=';
+    public static airpak = 'https://tracking.airpak-express.com/wsp/tracking.ashx';
+    public static mypoz = 'https://cj-api.herokuapp.com/mypoz/';
+    public static shopee = 'https://shopeexpress.com.my/api/v2/fleet_order/tracking/search?sls_tracking_number=';
+    public static taqbin = 'https://cj-api.herokuapp.com/taqbin/';
+    public static ups = 'http://www.pdexpress.net/portal/track/services/track/backpro/630055891748/ups/';
+    public static zepto = 'https://cj-api.herokuapp.com/zepto/';
+    public static tnt = 'https://www.tnt.com/api/v3/shipment?con=';
+    public static pgeon = 'https://cj-api.herokuapp.com/pgeon/';
+    public static aramex = 'http://www.pdexpress.net/portal/track/services/track/backpro/630055891748/aramex/';
+    public static aupost = 'https://auspost.com.au/api/track/search.json?q=';
+    public static brazilianpost = 'http://www.pdexpress.net/portal/track/services/track/backpro/630055891748/brazilianpost/';
+    public static japan_ems = 'http://www.pdexpress.net/portal/track/services/track/backpro/630055891748/japan_ems/';
+    public static posindonesia = 'https://ongkir.zuragan.com/api/v3/ongkir/track-shipment';
+    public static jne = 'http://apiv2.jne.co.id:10101/tracing/api/list/myjne/cnote/';
+    public static cekongkir = 'http://api.cek-ongkir.com/index.php/resi/check';
+    public static singpost = 'https://cj-api.herokuapp.com/singpost/';
+    public static redpack = 'https://cj-api.herokuapp.com/redpack/';
+}
