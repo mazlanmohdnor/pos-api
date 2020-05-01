@@ -1,0 +1,42 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+class COURIER_NAME {
+}
+exports.COURIER_NAME = COURIER_NAME;
+COURIER_NAME.poslaju = 'Pos Laju';
+COURIER_NAME.skynet = 'Sky Net Express';
+COURIER_NAME.usps = 'US Postal Service (USPS)';
+COURIER_NAME.ninjavan = 'Ninja Van';
+COURIER_NAME.lex = 'Lazada Express';
+COURIER_NAME.jnt = 'J&T Express';
+COURIER_NAME.gdex = 'GDEX';
+COURIER_NAME.citylink = 'City Link';
+COURIER_NAME.dhl = 'DHL';
+COURIER_NAME.dhleco = 'DHL e-Commerce';
+COURIER_NAME.abx = 'ABX Express';
+COURIER_NAME.cj = 'CJ Express';
+COURIER_NAME.fedex = 'FedEx';
+COURIER_NAME.lwe = 'LWE Logistic';
+COURIER_NAME.lineclear = 'Line Clear Express';
+COURIER_NAME.airpak = 'Airpak';
+COURIER_NAME.mypoz = 'My Poz';
+COURIER_NAME.shopee = 'Shopee Express';
+COURIER_NAME.taqbin = 'TaqBin Malaysia';
+COURIER_NAME.ups = 'UPS';
+COURIER_NAME.zepto = 'Zepto';
+COURIER_NAME.tnt = 'TnT';
+COURIER_NAME.pgeon = 'Pgeon';
+COURIER_NAME.aramex = 'Aramex';
+COURIER_NAME.aupost = 'Australia Post';
+COURIER_NAME.brazilianpost = 'Brazilian Post (Correios)';
+COURIER_NAME.japan_ems = 'Japan Post (EMS)';
+COURIER_NAME.posindonesia = 'Pos Indonesia';
+COURIER_NAME.jne = 'JNE';
+COURIER_NAME.tiki = 'TIKI Indonesia';
+COURIER_NAME.sicepat = 'Sicepat Indonesia';
+COURIER_NAME.wahana = 'Wahana';
+COURIER_NAME.lion = 'Lion Parcel';
+COURIER_NAME.nationwide = 'Nationwide Express';
+COURIER_NAME.singpost = 'Singapore Post';
+COURIER_NAME.redpack = 'Redpack Mexico';
+//# sourceMappingURL=courier-name.constant.js.map

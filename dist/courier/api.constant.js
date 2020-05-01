@@ -1,0 +1,41 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+class API {
+}
+exports.API = API;
+API.poslaju = 'https://apis.pos.com.my/apigateway/as2corporate/api/v2trackntracewebapijson/v1?id=';
+API.poslajuV2 = 'http://postpost.wittydata.com/api/v1/poslaju/';
+API.poslajuV3 = 'https://cj-api.herokuapp.com/poslaju/';
+API.nationwide = 'https://cj-api.herokuapp.com/nationwide/';
+API.skynet = 'http://postpost.wittydata.com/api/v1/skynet/';
+API.usps = 'http://www.pdexpress.net/portal/track/services/track/backpro/630055891748/usps/';
+API.ninjavan = 'http://postpost.wittydata.com/api/v1/ninjavan/';
+API.lex = 'http://postpost.wittydata.com/api/v1/lex/';
+API.jnt = 'http://customerapp.jtexpress.my:22236/jandt-app-ifd-web/router.do';
+API.gdex = 'https://www.gdexapi.com/app/CustomerApp/DeliveryStatus/';
+API.citylink = 'http://postpost.wittydata.com/api/v1/citylink/';
+API.dhl = 'http://www.dhl.com.my/shipmentTracking?AWB=';
+API.dhleco = 'http://postpost.wittydata.com/api/v1/dhl/';
+API.abx = 'https://cj-api.herokuapp.com/abx/';
+API.cj = 'https://cj-api.herokuapp.com/cj/';
+API.fedex = 'http://www.pdexpress.net/portal/track/services/track/backpro/630055891748/fedex/';
+API.lwe = 'http://postpost.wittydata.com/api/v1/lwe/';
+API.lineclear = 'https://lineclearexpress.com/my/track.php?docno=';
+API.airpak = 'https://tracking.airpak-express.com/wsp/tracking.ashx';
+API.mypoz = 'https://cj-api.herokuapp.com/mypoz/';
+API.shopee = 'https://shopeexpress.com.my/api/v2/fleet_order/tracking/search?sls_tracking_number=';
+API.taqbin = 'https://cj-api.herokuapp.com/taqbin/';
+API.ups = 'http://www.pdexpress.net/portal/track/services/track/backpro/630055891748/ups/';
+API.zepto = 'https://cj-api.herokuapp.com/zepto/';
+API.tnt = 'https://www.tnt.com/api/v3/shipment?con=';
+API.pgeon = 'https://cj-api.herokuapp.com/pgeon/';
+API.aramex = 'http://www.pdexpress.net/portal/track/services/track/backpro/630055891748/aramex/';
+API.aupost = 'https://auspost.com.au/api/track/search.json?q=';
+API.brazilianpost = 'http://www.pdexpress.net/portal/track/services/track/backpro/630055891748/brazilianpost/';
+API.japan_ems = 'http://www.pdexpress.net/portal/track/services/track/backpro/630055891748/japan_ems/';
+API.posindonesia = 'https://ongkir.zuragan.com/api/v3/ongkir/track-shipment';
+API.jne = 'http://apiv2.jne.co.id:10101/tracing/api/list/myjne/cnote/';
+API.cekongkir = 'http://api.cek-ongkir.com/index.php/resi/check';
+API.singpost = 'https://cj-api.herokuapp.com/singpost/';
+API.redpack = 'https://cj-api.herokuapp.com/redpack/';
+//# sourceMappingURL=api.constant.js.map
