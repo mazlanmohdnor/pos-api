@@ -3,6 +3,7 @@ import axios, { AxiosRequestConfig } from 'axios';
 import * as random_useragent from 'random-useragent';
 import { ApiChooser } from 'src/courier/api-chooser';
 import { API } from 'src/courier/api.constant';
+import { STORAGE } from 'src/courier/storage.constant';
 // import { NgxXml2jsonService } from 'ngx-xml2json';
 
 const convert = require('xml-js');

@@ -1,6 +1,6 @@
 import { Injectable } from '@nestjs/common';
-import { COURIER_NAME } from 'src/services/courier/courier-name.constant';
-import { PosType } from 'src/services/courier/pos.type';
+import { COURIER_NAME } from 'src/courier/courier-name.constant';
+import { PosType } from 'src/courier/pos.type';
 
 @Injectable()
 export class TypePipe {

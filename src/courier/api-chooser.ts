@@ -1,5 +1,5 @@
-import { API } from 'src/services/courier/api.constant';
-import { PosType } from 'src/services/courier/pos.type';
+import { API } from 'src/courier/api.constant';
+import { PosType } from 'src/courier/pos.type';
 
 export class ApiChooser {
     static chooseApi(type: PosType,/* api: ApiObject,*/ trackingNum, posLajuRetry?: number) {
